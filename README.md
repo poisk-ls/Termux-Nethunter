@@ -35,4 +35,4 @@ Default __DESKTOP__ is _XFCE4_ but you can setup __LXDE__ also https://www.hax4u
 #
 
 ### Credit & Thanks to:
-https://github.com/Hax4us
+**https://github.com/Hax4us**
